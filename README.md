@@ -5,3 +5,6 @@
 - carrot
 - apple
 - banana
+- grape
+- orange
+- kiwi
